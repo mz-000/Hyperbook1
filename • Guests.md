@@ -1,0 +1,74 @@
+### Proposed Anthology:
+
+- [ ] [[Carlota Perez]] on [[Technology Revolutions]]
+- [ ] Johannah Rodgers
+- [ ] James Burke
+- [ ] Matt Webb
+- [ ] Jeffery Rogers 
+- [ ] Jonathan Knegtel
+- [ ] Reinier Evers
+- [ ] Ralph Mercer
+- [ ] Luma Eldin on [[Culture]]
+- [ ] John A. Sweeney
+- [ ] Arthur Soares
+- [ ] Cintia Ferreira 
+- [ ] Ricardo Justus
+- [ ] Guilherme Kujawski
+- [ ] Laura Del Vecchio 
+- [ ] Tanja Schindler
+- [ ] Lidia Zuin 
+- [ ] Thiara Cavadas
+- [ ] Caroline Barrueco
+- [ ] Lonnie Grafman on [[Appropriate Technology]]
+- [ ] Paula Rizzo on [[Innovation]]
+- [ ] Amber Case 
+- [ ] Alison Killing
+- [ ] Rudy de Waele
+- [ ] Rand Hindi
+- [ ] David Mattin
+- [ ] Stuart Candy
+- [ ] Heidi Boisvert
+- [ ] Karl Burkart
+- [ ] Maya Van Leemput
+- [ ] Jihii Jolly
+- [ ] Bruce Sterling
+- [ ] Daniel Riveong
+- [ ] Jerry Michalski
+- [ ] Frank Spencer
+- [ ] Alex Whitcomb
+- [ ] Nina Da Hora
+- [ ] Loes Damhof
+- [ ] Luke Robert Mason
+- [ ] Benjamin Tinq
+- [ ] Femke Bartels
+- [ ] David Schatsky
+- [ ] Ari Popper
+- [ ] Mark Vernooij
+- [ ] Alberto @ Google
+- [ ] Quentin Ladetto
+- [ ] Max Luthy
+- [ ] Scott Smith
+- [ ] Michela Ventin
+- [ ] John Egan
+- [ ] Nadya Peek
+- [ ] Nadya Ivanova
+- [ ] Alex Klokus
+- [ ] Steffen Christensen
+- [ ] Mike Radke
+- [ ] Richard Littauer
+- [ ] Sharon Chang
+- [ ] Emer Beamer
+- [ ] Sjef Van Gaalen
+- [ ] Ben Vickers
+- [ ] Ola Möller
+- [ ] Kaz Brecher
+- [ ] Bas Verhart
+- [ ] Erin Geld
+- [ ] Eric Rosenbaum
+- [ ] Chris 23
+- [ ] Yanyi
+- [ ] Termie
+- [ ] Samuel Arbesman
+- [ ] Noah Raford
+- [ ] Alan Leviton
+- [ ] Robert Poynton
