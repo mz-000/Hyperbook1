@@ -15,6 +15,7 @@
 - Massive Transformational Goal (SU)
 
 
+
 ## NOTES (JK): 
 - Kodak - simple example…
 - A timeline of how quick we went from mainframe as the concepts of exponential are important ipo. At least a base understanding. 
