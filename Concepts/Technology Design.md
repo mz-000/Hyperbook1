@@ -1,0 +1,11 @@
+
+[[System]]
+[[Skeumorph]]
+[[Silicon Valley]]
+[[Spotify Model]]
+[[Dark Pattern]]
+[[Overengineering]]
+[[Non-Neutral]]
+[[Bit Rot]]
+[[Bloat]]
+[[Technology Transfer]]

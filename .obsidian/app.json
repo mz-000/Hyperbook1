@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "foldHeading": false,
+  "spellcheck": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Sources/Images",
+  "defaultViewMode": "source"
+}

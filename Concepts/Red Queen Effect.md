@@ -1,0 +1,5 @@
+#Concepts 
+# Red Queen Effect
+
+
+The Red Queen hypothesis, also referred to as Red Queen's, the Red Queen effect, the Red Queen model, Red Queen's race, and Red Queen dynamics, is a hypothesis in evolutionary biology which proposes that species must constantly adapt, evolve, and proliferate in order to survive while pitted against ever-evolving opposing species. The hypothesis was intended to explain the constant (age-independent) extinction probability as observed in the paleontological record caused by co-evolution between competing species; however, it has also been suggested that the Red Queen hypothesis explains the advantage of sexual reproduction (as opposed to asexual reproduction) at the level of individuals, and the positive correlation between speciation and extinction rates in most higher taxa.

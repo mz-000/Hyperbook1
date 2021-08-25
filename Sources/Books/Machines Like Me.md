@@ -1,0 +1,50 @@
+#Books 
+
+
+# Machines Like Me
+![rw-book-cover](https://images-na.ssl-images-amazon.com/images/I/41DmK4xeGBL._SL200_.jpg)
+
+## Metadata
+- Author: [[Ian McEwan]]
+- Full Title: Machines Like Me
+- Category: #Books
+
+## Highlights
+- “Unreveal upside of B347k vest to gain carefree emoticon with motherboard output to attenuate mood-swing penumbra.” ([Location 86](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=86))
+- Before us sat the ultimate plaything, the dream of ages, the triumph of humanism—or its angel of death. ([Location 104](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=104))
+- The future kept arriving. Our bright new toys began to rust before we could get them home, and life went on much as before. ([Location 125](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=125))
+- As artificial people became more like us, then became us, then became more than us, we could never tire of them. ([Location 128](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=128))
+- Factory settings—a contemporary synonym for fate. ([Location 139](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=139))
+- But I was keeping myself out of a career, an office job. This was my least bad option in the pursuit of freedom. ([Location 331](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=331))
+- An old friend of mine, a journalist, once said that paradise on earth was to work all day alone in anticipation of an evening in interesting company. ([Location 352](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=352))
+- He sat again, hooked his feet into the trainers and tied the laces in a double bow at a blurring speed that to some might have seemed inhuman. But I didn’t think it was. It was a triumph of engineering and software design: a celebration of human ingenuity. ([Location 411](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=411))
+- We could become slaves of time without purpose. Then what? A general renaissance, a liberation into love, friendship and philosophy, art and science, nature worship, sports and hobbies, invention and the pursuit of meaning? ([Location 648](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=648))
+- “From a certain point of view, the only solution to suffering would be the complete extinction of humankind.” ([Location 910](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=910))
+- In that strange way by which one reserves intimacies for a mere acquaintance, I had told Simon about my new girlfriend. ([Location 931](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=931))
+- a radio was playing the Beatles, recently regrouped after twelve years apart. ([Location 991](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=991))
+- Nor did we wish to be told again, the Times critic complained, that love was all we needed, even if it were true, which it was not. ([Location 994](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=994))
+- Love stories like Jane Austen’s used to conclude chastely with preparations for a wedding. Now their climax lay on the far side of carnal knowledge, where all of complexity waited. ([Location 1005](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1005))
+- But my situation had a thrilling aspect, not only of subterfuge and discovery, but of originality, of modern precedence, of being the first to be cuckolded by an artefact. ([Location 1128](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1128))
+- I was of my times, riding the breaking crest of the new, ahead of everyone in enacting that drama of displacement so frequently and gloomily predicted. ([Location 1130](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1130))
+- I was subject to occasional depression, relatively mild, certainly not suicidal, and not long episodes so much as passing moments like this, when meaning and purpose and all prospect of pleasure drained away and left me briefly catatonic. ([Location 1438](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1438))
+- I noted the men especially and their shabby clothes. They had swept past some critical junction in their lives many years back—a poor career choice, a bad marriage, the unwritten book, the illness that never went away. Now their options were closed, they managed to keep themselves going with some shred of intellectual longing or curiosity. But their boat was sunk. ([Location 1442](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1442))
+- Everything was rising—hopes and despair, misery, boredom and opportunity. There was more of everything. It was a time of plenty. ([Location 1515](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1515))
+- Despite the clean divide between the living and the inanimate, it remained the case that he and I were bound by the same physical laws. ([Location 1711](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1711))
+- detachment. I didn’t, I couldn’t, love her less. But I no longer had to feel anxious or desperate about her. ([Location 1788](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1788))
+- This is a humble beginning and there are many problems to solve. They’ll certainly be solved, and when they are, and a brain–machine interface is efficient and cheap, you’ll become a partner with your machines in the open-ended expansion of intelligence, and of consciousness generally. Colossal intelligence, instant access to deep moral acumen and to everything known, but more importantly, access to each other.” ([Location 1966](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1966))
+- But when the marriage of men and women to machines is complete, this literature will be redundant because we’ll understand each other too well. We’ll inhabit a community of minds to which we have immediate access. Connectivity will be such that individual nodes of the subjective will merge into an ocean of thought, of which our Internet is the crude precursor. As we come to inhabit each other’s minds, we’ll be incapable of deceit. ([Location 1982](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=1982))
+- “I hope it’s not too late to call. This is Alan Turing. We saw you briefly in Greek Street. I wondered if we might meet up for a chat.” ([Location 2205](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2205))
+- As I saw it, the future, to which I was finely attuned, was already here. ([Location 2239](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2239))
+- This intelligence is not perfect. It never can be, just as ours can’t. There’s one particular form of intelligence that all the A-and-Es know is superior to theirs. This form is highly adaptable and inventive, able to negotiate novel situations and landscapes with perfect ease and theorise about them with instinctive brilliance. I’m talking about the mind of a child before it’s tasked with facts and practicalities and goals. ([Location 2364](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2364))
+- Millions dying of diseases we know how to cure. Millions living in poverty when there’s enough to go around. We degrade the biosphere when we know it’s our only home. We threaten each other with nuclear weapons when we know where it could lead. We love living things but we permit a mass extinction of species. ([Location 2374](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2374))
+- I could tell you similar stories of machine sadness. ([Location 2385](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2385))
+- Cleaning up the kitchen, a task we no longer left to Adam alone, affirmed our hold on the future. ([Location 2404](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2404))
+- “There are…no masses, only ways of seeing people as masses.” ([Location 2414](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2414))
+- I had no ambitions beyond the erotic and an expensive house across the river. ([Location 2606](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2606))
+- There are occasions when one notices the motion of an object before one sees the thing itself. Instantly, the mind does a little colouring in, drawing on expectations, or probabilities. Whatever fits best. Something in the grass by a pond looks just like a frog, then resolves into a leaf stirred by the wind. In abstract, this was one of those moments. A thought darted past me, or through me, then it was gone, and I couldn’t trust what I thought I had seen. ([Location 2971](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=2971))
+- Or: withdrawing, we would each go too far and, like inept trapezists, slip out of each other’s grasp and fall and, as we nursed our injuries, slowly become strangers. ([Location 3258](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=3258))
+- I hadn’t yet started my life, which was marginal, in fact childish. My existence was an empty space. ([Location 3267](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=3267))
+- “Our leaves are falling. Come spring we will renew, But you, alas, fall once.” ([Location 3680](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=3680))
+- Now we were condemned to stay where we were. ([Location 3716](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=3716))
+- “My hope is that one day, what you did to Adam with a hammer will constitute a serious crime. Was it because you paid for him? Was that your entitlement?” ([Location 3985](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=3985))
+- the inscription, attributed to Archimedes. The translation read, “Rise above yourself and grasp the world.” ([Location 4012](https://readwise.io/to_kindle?action=open&asin=B07HW18VDM&location=4012))

@@ -1,0 +1,6 @@
+#Concepts 
+# Singularity
+
+
+
+[[Ray Kurzweil]]

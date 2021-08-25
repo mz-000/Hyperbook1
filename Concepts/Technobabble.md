@@ -1,0 +1,5 @@
+#Concepts 
+# Technobabble
+
+
+[[Hype Cycle]]

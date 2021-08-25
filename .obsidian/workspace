@@ -1,0 +1,147 @@
+{
+  "main": {
+    "id": "1f33bad11a105beb",
+    "type": "split",
+    "children": [
+      {
+        "id": "06b6c813e8b4d0fa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Index.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fee46b04ebdea602",
+    "type": "split",
+    "children": [
+      {
+        "id": "2857cc4be699fbca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44c117faafb353c4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "829b6f6ac4876e20",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f835302e810c5335",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fb1f6159fab1e9b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "149e14c4198b6e16",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "7088df4e290b2203",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e8eae64930008c9c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "91df0b1b12673155",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index.md"
+              }
+            }
+          },
+          {
+            "id": "66b5291c3f7e2f43",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "79c606090b17c845",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "06b6c813e8b4d0fa",
+  "lastOpenFiles": [
+    "Index.md",
+    "README.md",
+    "Hyperbook/• Notes.md",
+    "Concepts/90-90 Rule.md",
+    "Essays/Digital Flattening.md",
+    "Concepts/Hofstadter's Law.md",
+    "Concepts/Hutber's Law.md",
+    "Concepts/Hypergraph.md",
+    "Concepts/Fungible.md",
+    "Concepts/Affordance.md"
+  ]
+}

@@ -1,0 +1,8 @@
+#Concepts 
+# Technium
+
+
+
+
+
+[[Kevin Kelly]]

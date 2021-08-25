@@ -1,0 +1,5 @@
+#Concepts 
+# Bloat
+
+
+[[Technology Design]]

@@ -1,0 +1,7 @@
+#Concepts 
+# Normalization
+
+
+
+[[Overton Window]]
+
